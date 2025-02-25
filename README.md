@@ -1,27 +1,30 @@
-# softwaredevelopment
-# Organica
-This project follows the incremantal model with different modules and takes 12 weeks for development
+# Starstrike: Nebula Assault 2D
 
+A space-themed 2D shooter game built with HTML5 Canvas and JavaScript.
 
-<b> Dinesh : Login/sign-in page </b> 
-- Should develop a page with input fields like username/email, password and a login button.
-- Add a sign-up button for new customers, which redirects them to a registration page to create an new account.
-- Button action should show the status of succcess or failed.
-  
-<b> Mahesh : Feedback statistics </b>
-- Should develop a tab for admins to collect the feedback and reviews from the users and display the stats.
-- Should also provide filter option for specific time period analysis.
+## Features
 
-<b> Yaswanth : Diet Analysis </b>
-- Should create a tab and it should have input fields to collect weight and height.
-- Should also have button so that on clicking it suggestions are shown.
-  
-<b> Harshita : Delivery Tracking </b>
-- Develop a <b>order</b> tab which shows the live tracking status of the package.
-  
-<b> harshita J : Nutrition prescription </b>
-- should develop a small icon button( an "info" or "i" symbol ) on corner of each items in display, onclicking it shows the nutrition destails of item.
+- Smooth spaceship controls with arrow keys
+- Power-up system that enhances weapon power
+- Enemy spacecraft that spawn and attack
+- Score tracking and game over state
+- Beautiful galaxy background with star effect
+- Responsive design that works on all screen sizes
 
-<b> Pranathi : Subcription Plans </b>
-- Should develop a Button option which redirects the user to the benefits page.
-- On benefits page display options ( membership benefits, discounts, referral things etc. )
+## Controls
+
+- Arrow keys to move the jet
+- Spacebar to shoot
+- Collect yellow orbs for power-ups
+- Avoid enemy spacecraft
+- Try to get the highest score!
+
+## Technologies Used
+
+- HTML5 Canvas for game rendering
+- Vanilla JavaScript for game logic
+- Tailwind CSS for UI styling
+
+## Setup
+
+Simply open index.html in a modern web browser to play!
